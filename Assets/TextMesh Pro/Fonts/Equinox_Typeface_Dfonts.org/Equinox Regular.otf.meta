@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3faddd91abe066e4fa76d699e877f1d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Equinox
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64db56bd6cefa684a9c68f0f91c64795, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
